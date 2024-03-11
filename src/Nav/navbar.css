@@ -1,0 +1,34 @@
+.topbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    color: #15A1DB;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: Josefin Sans ;
+}
+.menu{
+    display: flex;
+    gap: 40px;
+}
+.icon{
+    color: #15A1DB;
+    display: flex;
+    gap: 20px;
+}
+.topbar2{
+    display: flex;
+    gap: 30px;
+    padding-left: 150px;
+    color: #15A1DB ;
+    align-items: center;
+}
+.fau{
+    font-size: 23px;
+    font-weight: 600;
+}
+.grp{
+    color: black;
+}
