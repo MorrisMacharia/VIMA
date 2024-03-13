@@ -1,0 +1,69 @@
+.foot2 {
+  background-color: #222222;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: 300px;
+}
+.boxx1 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 200px;
+  justify-content: center;
+}
+.sapp {
+  font-family: Josefin Sans;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 96px;
+  letter-spacing: 0em;
+  color: #15a1db;
+}
+.area3 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 70px;
+}
+.trm {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: antiquewhite;
+}
+.inform {
+  color: antiquewhite;
+  font-size: 15px;
+}
+.inftxt {
+  color: antiquewhite;
+  font-size: 10px;
+}
+.acnt {
+  color: antiquewhite;
+  font-size: 15px;
+}
+.acctxt {
+  color: antiquewhite;
+  font-size: 10px;
+}
+.help {
+  color: antiquewhite;
+  font-size: 15px;
+}
+.suptxt {
+  color: antiquewhite;
+  font-size: 10px;
+}
+.area4 {
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  color: antiquewhite;
+  gap: 40px;
+  align-items: center;
+}
+.icons5 {
+  display: flex;
+  gap: 5px;
+}

@@ -81,12 +81,25 @@ const Bodytxt = () => {
           </div>
         </div>
         <div className="grid-container">
-          <div className="grid-item"><div className="inq">59+  Inquiries(180 days)</div></div>
-          <div className="grid-item"> <div className="inq">$365,456.16 Vendors Sales amount</div></div>
-          <div className="grid-item"> <div className="inq">10+  Stores Order Volume</div></div>
-          <div className="grid-item"> <div className="inq">6hr  Response Time </div> </div>
-          <div className="grid-item"> <div className="inq"> 90%  On-Time Delivery rate</div></div>
-          <div className="grid-item"> <div className="inq">170,000+ Transactions </div> </div>
+          <div className="grid-item">
+            <p>59+</p> <p>Inquiries(180 days)</p>
+          </div>
+          <div className="grid-item">
+            <p>$365,456.16</p> <p> Vendors Sales amount</p>
+          </div>
+          <div className="grid-item">
+            <p>10+</p> <p>Stores Order Volume</p>
+          </div>
+          <div className="grid-item">
+            <p>6hr</p> <p>Response Time </p>
+          </div>
+          <div className="grid-item">
+            <p>90%</p> <p>On-Time Delivery rate</p>
+          </div>
+          <div className="grid-item">
+            <p>170,000+</p>
+            <p>Transactions</p>
+          </div>
         </div>
         <div className="rate">
           <div className="rev">

@@ -1,0 +1,24 @@
+.foot1{
+    height: 270px;
+    background-color: #EAEAEA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 30px;
+}
+.boox{
+    display: flex;
+    gap: 20px;
+}
+.box1{
+    height: 30px;
+    width: 350px;
+}
+.bttn{
+    width: 87px;
+    background-color:#15A1DB;
+    color: antiquewhite;
+    border: 0;
+}
